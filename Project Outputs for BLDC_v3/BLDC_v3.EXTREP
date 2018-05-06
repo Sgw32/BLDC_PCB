@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: BLDC_v3.GBR   07.05.2018  0:38:22
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Component Side                          
+.G1                 Signal Layer 1                          
+.G2                 Signal Layer 2                          
+.GBL                Solder Side                             
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer, Board                   
+.GM1                Mechanical 1, Top Assy                  
+.GM2                Mechanical 2, Bot Assy                  
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.GML                Multi-Layer                             
+.1                  Dielectric 1                            
+.2                  Dielectric 3                            
+.3                  Dielectric 4                            
+------------------------------------------------------------------------------------------

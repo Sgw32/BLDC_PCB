@@ -1,0 +1,33 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [BLDC_v3.PrjPcb]
+   Generated File[BLDC_v3.GTL]
+   Generated File[BLDC_v3.G1]
+   Generated File[BLDC_v3.G2]
+   Generated File[BLDC_v3.GBL]
+   Generated File[BLDC_v3.GPB]
+   Generated File[BLDC_v3.GPT]
+   Generated File[BLDC_v3.GTO]
+   Generated File[BLDC_v3.GTP]
+   Generated File[BLDC_v3.GTS]
+   Generated File[BLDC_v3.GBS]
+   Generated File[BLDC_v3.GBP]
+   Generated File[BLDC_v3.GBO]
+   Generated File[BLDC_v3.GKO]
+   Generated File[BLDC_v3.GM1]
+   Generated File[BLDC_v3.GM2]
+   Generated File[BLDC_v3.GM13]
+   Generated File[BLDC_v3.GM15]
+   Generated File[BLDC_v3.GML]
+   Generated File[BLDC_v3.1]
+   Generated File[BLDC_v3.2]
+   Generated File[BLDC_v3.3]
+   Generated File[BLDC_v3.RUL]
+   Generated File[BLDC_v3.EXTREP]
+   Generated File[BLDC_v3.REP]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 0:38:24 On 07.05.2018
